@@ -27,7 +27,7 @@
 
 ## OAuth Configuration
 
-- **Web Client ID**: 345633554088-sb6g3cebbgo3baearsm8tc8dapq4oeav.apps.googleusercontent.com
+- **Web Client ID**: 345633554088-k0k6cbnu0vigsn1g2sojcv3b9u9v460l.apps.googleusercontent.com
 - **Android Client ID**: 345633554088-sb6g3cebbgo3baearsm8tc8dapq4oeav.apps.googleusercontent.com
 - **SHA-1 Debug Fingerprint**: 17:E7:5A:4A:B4:C8:3B:18:B4:83:9F:FF:65:F3:86:B8:6F:24:3A:48
 - **SHA-1 Release Fingerprint**: 96:CB:54:42:97:9F:A5:29:D8:8D:5D:47:9E:C3:A3:B7:15:54:BB:8D

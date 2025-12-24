@@ -12,7 +12,7 @@
 
 ### OAuth Client IDs
 
-- **Web Client ID**: 345633554088-sb6g3cebbgo3baearsm8tc8dapq4oeav.apps.googleusercontent.com
+- **Web Client ID**: 345633554088-k0k6cbnu0vigsn1g2sojcv3b9u9v460l.apps.googleusercontent.com
 - **Android Client ID**: 345633554088-sb6g3cebbgo3baearsm8tc8dapq4oeav.apps.googleusercontent.com
 
 ### SHA-1 Fingerprints
